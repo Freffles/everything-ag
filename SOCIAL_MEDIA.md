@@ -23,7 +23,7 @@ Check out the repository here: https://github.com/krishnakanthb13/everything-ant
 ### 🚀 Reddit
 **Subreddits**: r/programming, r/webdev, r/ArtificialIntelligence, r/SelfHosted
 
-**Title**: [Show Reddit] Everything Antigravity: A Modular Framework for AI-Driven Development (Rules, Skills, & Agents)
+**Title**: [Showcase] Everything Antigravity: A Modular Framework for AI-Driven Development (Rules, Skills, & Agents)
 
 Hey everyone! I've been working on a system to make AI-assisted coding more predictable and high-performance. Today, I'm launching **Everything Antigravity v1.0.0**.
 
